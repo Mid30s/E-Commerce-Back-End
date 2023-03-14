@@ -39,13 +39,12 @@ npm install
 ## Usage
 
 To view this application,the following image shows the landing page of the application, or click on the page link that demonstrates the functionality of this project:\
-<url>
+<https://drive.google.com/file/d/175soxfVuhiEpRKkuQkOpjTqJb7RHzLPO/view>
 
-![E-Commerce](./assets/images/1.png)
+![E-Commerce](./assets/images/GET.gif)
 
-![E-Commerce](./assets/images/2.png)
+![E-Commerce](./assets/images/POST-PUT-DELETE.gif)
 
-![E-Commerce](./assets/images/3.png)
 
 ## License
 
